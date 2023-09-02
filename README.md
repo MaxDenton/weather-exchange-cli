@@ -1,0 +1,1 @@
+An application for displaying weather information in a selected city and the current exchange rates. To obtain information, resources "https://openweathermap.org" and "https://manage.exchangeratesapi.io" are used, where it is quite easy to obtain a free API key. The default city is "Barcelona," and the currency is "USD". -h for help.
